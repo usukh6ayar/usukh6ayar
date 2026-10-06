@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-earth.svg",
+  "backgroundColor": "#161512",
+  "foregroundColor": "#e8e2d4",
+  "strongColor": "#e6cf9c",
+  "weakColor": "#8a8473",
+  "radarColor": "#d4b483",
+  "growingAnimation": true,
+  "contribColors": ["#2a2822", "#4b4a33", "#6e6a44", "#a08a55", "#d4b483"]
+}

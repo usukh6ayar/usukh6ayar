@@ -1,17 +1,17 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:06b6d4&height=220&section=header&text=Usukhbayar&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%E2%80%A2%20Mobile%20Developer&descSize=20&descAlignY=58" width="100%" alt="Usukhbayar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161512,55:4b4a33,100:c9a66b&height=220&section=header&text=Usukhbayar&fontSize=72&fontColor=f3ead6&fontAlignY=36&desc=Full%20Stack%20%E2%80%A2%20Mobile%20Developer&descSize=20&descAlignY=58" width="100%" alt="Usukhbayar" />
 </p>
 
 <p align="center">
   <a href="https://usukhbayar.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+from+Mongolia+%F0%9F%87%B2%F0%9F%87%B3;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+NestJS;Shipping+mobile+apps+with+React+Native;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D4B483&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+from+Mongolia+%F0%9F%87%B2%F0%9F%87%B3;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+NestJS;Shipping+mobile+apps+with+React+Native;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://usukhbayar.dev"><img src="https://img.shields.io/badge/Portfolio-usukhbayar.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/usukh6ayar?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://usukhbayar.dev"><img src="https://img.shields.io/badge/Portfolio-usukhbayar.dev-4b4a33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/usukh6ayar?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-a08a55?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 🏙️ My commit city
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-earth.svg" alt="3D contribution graph" width="100%" />
 </p>
 
 ## 🚀 Featured projects
@@ -112,10 +112,10 @@
 ---
 
 <p align="center">
-  <a href="https://usukhbayar.dev"><img src="https://img.shields.io/badge/Let's_build_something-usukhbayar.dev-22d3ee?style=for-the-badge" alt="Contact" /></a>
+  <a href="https://usukhbayar.dev"><img src="https://img.shields.io/badge/Let's_build_something-usukhbayar.dev-c9a66b?style=for-the-badge" alt="Contact" /></a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:06b6d4&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161512,55:4b4a33,100:c9a66b&height=120&section=footer" width="100%" />
 </p>
